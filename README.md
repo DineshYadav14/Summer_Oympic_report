@@ -16,3 +16,7 @@ Visuals we use :
    etc.
 
  All these charts are interactive.
+
+ TOOLS:
+ 1.Kaggle- for data 
+ 2.Power BI- for creating dashboards.
